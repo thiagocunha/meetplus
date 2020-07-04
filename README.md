@@ -11,3 +11,4 @@ Extension to add special features to your meetings
 - Moderator could delegate the moderation
 - No server side code
 - Respect user's privacy
+- Unmute button mutes the others
