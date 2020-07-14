@@ -12,3 +12,4 @@ Extension to add special features to your meetings
 - No server side code
 - Respect user's privacy
 - Unmute button mutes the others
+- Focus checker
